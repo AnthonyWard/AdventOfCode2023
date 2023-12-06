@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\2\\solvePart2.mjs",
+            "program": "${workspaceFolder}\\3\\solve.mjs",
         }
     ]
 }
